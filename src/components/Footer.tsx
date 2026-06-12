@@ -29,7 +29,7 @@ export default function Footer({ setTab }: FooterProps) {
   };
 
   return (
-    <footer className="relative bg-[#040C1A] border-t border-white/10 overflow-hidden text-slate-300">
+    <footer className="relative bg-[#020710] border-t border-[#D4AF37]/25 overflow-hidden text-slate-300">
       
       {/* Visual Ambient Background Ornaments reminding of oil pouring down */}
       <div className="absolute top-0 right-1/4 w-96 h-96 rounded-full bg-[#D4AF37]/5 blur-[120px] pointer-events-none" />
@@ -38,23 +38,34 @@ export default function Footer({ setTab }: FooterProps) {
       <div className="max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8 relative z-10">
         
         {/* Top Section - Ministry Statement */}
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 pb-12 border-b border-white/5">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-12 pb-12 border-b border-white/10">
           
           <div className="lg:col-span-2 space-y-6">
-            <h2 className="font-display font-black text-2xl text-white tracking-widest uppercase">
-              OIL FOR SOUL WINNING <span className="text-[#D4AF37]">EVANGELICAL MINISTRIES</span>
-            </h2>
-            <p className="font-sans text-sm text-[#D4AF37] font-semibold tracking-wider">
-              a.k.a CAC MINE SHALL BE POSSIBLE
-            </p>
+            <div className="flex flex-col sm:flex-row sm:items-center gap-4">
+              <div className="relative w-16 h-16 rounded-full overflow-hidden border border-[#D4AF37] shadow-[0_0_15px_rgba(212,175,55,0.25)] bg-[#081C3D] shrink-0">
+                <img 
+                  src="/logo.jpg" 
+                  alt="CAC Mine Shall Be Possible Logo" 
+                  className="w-full h-full object-cover scale-102"
+                />
+              </div>
+              <div className="space-y-1">
+                <h2 className="font-serif font-black text-xl sm:text-2xl text-white tracking-widest uppercase leading-tight">
+                  OIL FOR SOUL WINNING <span className="text-[#D4AF37]">EVANGELICAL MINISTRIES</span>
+                </h2>
+                <p className="font-mono text-xs text-[#D4AF37] font-bold tracking-widest">
+                  a.k.a CAC MINE SHALL BE POSSIBLE
+                </p>
+              </div>
+            </div>
             
             {/* The Great Commission Scripture */}
-            <div className="p-6 rounded-2xl glass-panel-gold border-amber-500/10 space-y-3">
+            <div className="p-6 rounded-2xl stained-glass-gold space-y-3">
               <p className="italic text-base text-[#D4AF37] font-serif leading-relaxed">
                 "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you..."
               </p>
-              <div className="flex items-center justify-between">
-                <span className="font-display text-xs text-white uppercase tracking-widest font-black">
+              <div className="flex flex-wrap gap-2 items-center justify-between">
+                <span className="font-serif text-xs text-white uppercase tracking-widest font-black">
                   Matthew 28:19-20
                 </span>
                 <span className="text-xs font-semibold text-slate-400">Our Primary Ministry Core Mandate</span>

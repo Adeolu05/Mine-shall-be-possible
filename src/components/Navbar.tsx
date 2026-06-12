@@ -33,29 +33,29 @@ export default function Navbar({ currentTab, setTab }: NavbarProps) {
   const categories = ['About', 'Mobilise', 'Training', 'Impact'];
 
   return (
-    <header className="sticky top-0 z-50 w-full glass-panel border-b border-white/10">
+    <header className="sticky top-0 z-50 w-full stained-glass border-b border-[#D4AF37]/20 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-22">
           
           {/* Logo & Brand */}
           <div 
             onClick={() => handleNavClick('home')} 
             className="flex items-center space-x-3 cursor-pointer group"
           >
-            {/* Elegant Vector Logo Emblem reproducing symbolisms */}
-            <div className="relative w-12 h-12 rounded-full bg-gradient-to-br from-[#D4AF37] via-[#123B73] to-[#081C3D] flex items-center justify-center border border-[#D4AF37]/40 shadow-lg group-hover:scale-105 transition-transform duration-300">
-              <span className="font-display font-black text-white text-xs tracking-widest text-center leading-none">
-                CAC<br/>MSBP
-              </span>
-              {/* Anointing drop decoration effect */}
-              <div className="absolute -bottom-1 right-0 w-3 h-3 rounded-full bg-[#D4AF37] border border-[#081C3D] shadow animate-bounce" />
+            {/* Elegant circular logo with gold glowing border */}
+            <div className="relative w-13 h-13 rounded-full overflow-hidden border border-[#D4AF37] shadow-[0_0_12px_rgba(212,175,55,0.3)] group-hover:scale-105 transition-transform duration-300 ease-out bg-[#081C3D]">
+              <img 
+                src="/logo.jpg" 
+                alt="CAC Mine Shall Be Possible Logo" 
+                className="w-full h-full object-cover scale-102"
+              />
             </div>
             
             <div className="flex flex-col">
-              <h1 className="font-display font-bold text-sm sm:text-base tracking-wider text-white group-hover:text-[#D4AF37] transition-colors">
+              <h1 className="font-serif font-black text-sm sm:text-base tracking-wider text-white group-hover:text-[#D4AF37] transition-colors leading-tight">
                 OIL FOR SOUL WINNING
               </h1>
-              <p className="font-sans text-[10px] uppercase text-[#D4AF37] font-semibold tracking-widest">
+              <p className="font-sans text-[9px] uppercase text-[#D4AF37] font-bold tracking-widest mt-0.5 leading-none">
                 CAC MINE SHALL BE POSSIBLE
               </p>
             </div>

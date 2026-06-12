@@ -17,19 +17,28 @@ export default function AboutView() {
     <div className="space-y-16 py-12 px-4 max-w-7xl mx-auto text-left">
       
       {/* Page Header */}
-      <div className="space-y-4">
-        <div className="inline-flex items-center space-x-2 px-3 py-1.5 rounded-full bg-[#D4AF37]/10 border border-[#D4AF37]/30">
-          <span className="text-[10px] uppercase font-display font-black tracking-widest text-[#D4AF37]">
-            OUR HEAVENLY CONSTITUTION
-          </span>
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 border-b border-white/10 pb-8">
+        <div className="space-y-4">
+          <div className="inline-flex items-center space-x-2 px-3 py-1.5 rounded-full bg-[#D4AF37]/10 border border-[#D4AF37]/30">
+            <span className="text-[10px] uppercase font-display font-black tracking-widest text-[#D4AF37]">
+              OUR HEAVENLY CONSTITUTION
+            </span>
+          </div>
+          <h2 className="font-serif font-black text-3xl sm:text-5xl text-white tracking-tight">
+            The Mandate & Vision
+          </h2>
+          <p className="text-slate-400 text-sm sm:text-base max-w-3xl leading-relaxed">
+            Discover the foundational covenants, spiritual history, and administrative values backing Oil For Soul Winning Evangelical Ministries (a.k.a CAC Mine Shall Be Possible).
+          </p>
+          <div className="h-1 w-24 bg-gradient-to-r from-[#D4AF37] to-[#123B73]" />
         </div>
-        <h2 className="font-display font-black text-3xl sm:text-5xl text-white tracking-tight">
-          The Mandate & Vision
-        </h2>
-        <p className="text-slate-400 text-sm sm:text-base max-w-3xl leading-relaxed">
-          Discover the foundational covenants, spiritual history, and administrative values backing Oil For Soul Winning Evangelical Ministries (a.k.a CAC Mine Shall Be Possible).
-        </p>
-        <div className="h-1 w-24 bg-gradient-to-r from-[#D4AF37] to-[#123B73]" />
+        <div className="relative w-28 h-28 rounded-full overflow-hidden border border-[#D4AF37]/30 shadow-[0_0_20px_rgba(212,175,55,0.2)] bg-[#081C3D] shrink-0 self-start md:self-center">
+          <img 
+            src="/logo.jpg" 
+            alt="CAC Mine Shall Be Possible Seal" 
+            className="w-full h-full object-cover scale-102"
+          />
+        </div>
       </div>
 
       {/* History and Kingdom Mandate Breakdown */}

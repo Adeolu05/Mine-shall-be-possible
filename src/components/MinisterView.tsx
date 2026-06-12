@@ -68,7 +68,7 @@ export default function MinisterView() {
             <div className="absolute -inset-1 bg-[#D4AF37]/25 rounded-2xl blur" />
             
             <img 
-              src="https://images.unsplash.com/photo-1544427920-c49ccfb85579?auto=format&fit=crop&q=80&w=700" 
+              src="/prophet.png" 
               alt="Prophet Maruph Oladele praying"
               className="w-full h-auto aspect-square object-cover rounded-2xl relative z-0"
             />

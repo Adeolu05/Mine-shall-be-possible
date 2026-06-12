@@ -101,41 +101,41 @@ export default function HomeView({ setTab }: HomeViewProps) {
 
           {/* Right 3D-effect Brand Card (Holy Anointing Symbolism) */}
           <div className="lg:col-span-5 flex justify-center w-full">
-            <div className="relative w-full max-w-[420px] aspect-square rounded-[2rem] p-1 bg-gradient-to-br from-[#D4AF37]/40 via-white/5 to-[#123B73]/30 shadow-2xl overflow-hidden group">
+            <div className="relative w-full max-w-[420px] aspect-square rounded-[2rem] p-1 bg-gradient-to-br from-[#D4AF37]/50 via-white/5 to-[#123B73]/40 shadow-2xl overflow-hidden group">
               
-              {/* Internal Glassmorphic Layout */}
-              <div className="absolute inset-0.5 rounded-[1.9rem] bg-[#081C3D]/85 backdrop-blur-3xl p-8 flex flex-col justify-between overflow-hidden">
+              {/* Internal Glassmorphic Layout using stained-glass style */}
+              <div className="absolute inset-0.5 rounded-[1.9rem] bg-[#020710]/90 backdrop-blur-3xl p-8 flex flex-col justify-between overflow-hidden border border-[#D4AF37]/25">
                 
-                {/* Visual grid lines reminiscent of 2026 luxury UI */}
-                <div className="absolute inset-0 opacity-[0.07] bg-[linear-gradient(to_right,rgba(255,255,255,0.1)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-[size:16px_16px]" />
+                {/* Visual grid lines reminiscent of premium UI */}
+                <div className="absolute inset-0 opacity-[0.05] bg-[linear-gradient(to_right,rgba(255,255,255,0.1)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-[size:16px_16px]" />
                 
                 {/* Top of Card ID seal */}
                 <div className="flex items-center justify-between relative z-10">
-                  <span className="font-display text-[10px] uppercase font-black tracking-widest text-[#D4AF37]">
+                  <span className="font-mono text-[9px] uppercase font-black tracking-widest text-[#D4AF37]">
                     CAC MSBP Divine Seal
                   </span>
-                  <div className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-ping" />
+                  <div className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse shadow-[0_0_8px_#10b981]" />
                 </div>
 
-                {/* Central Motif: Holy Oil Anointing Drop */}
-                <div className="relative my-4 flex flex-col items-center justify-center py-4 relative z-10 text-center">
+                {/* Central Motif: Church Logo Medallion */}
+                <div className="relative my-4 flex flex-col items-center justify-center py-4 z-10 text-center">
                   
                   {/* Glowing halo */}
-                  <div className="absolute w-36 h-36 rounded-full bg-[#D4AF37]/15 blur-2xl animate-pulse" />
+                  <div className="absolute w-40 h-40 rounded-full bg-[#D4AF37]/15 blur-2xl animate-pulse" />
                   
-                  <div className="relative w-24 h-24 rounded-full border border-[#D4AF37]/30 flex items-center justify-center p-4 bg-slate-900/60 shadow-inner">
-                    {/* Pouring droplet symbol */}
-                    <svg className="w-12 h-12 text-[#D4AF37]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
-                      <path d="M12 2C8 6 4 10 4 14C4 18 8 22 12 22C16 22 20 18 20 14C20 10 16 6 12 2Z" fill="rgba(214,175,55,0.15)" strokeLinecap="round" strokeLinejoin="round" />
-                      <path d="M12 6c-2.5 3-4 5.5-4 8 0 2.2 1.8 4 4 4s4-1.8 4-4c0-2.5-1.5-5-4-8z" fill="rgba(214,175,55,0.25)" />
-                    </svg>
+                  <div className="relative w-32 h-32 rounded-full border-2 border-[#D4AF37] flex items-center justify-center p-0.5 bg-slate-950/60 shadow-[0_0_30px_rgba(212,175,55,0.3)] overflow-hidden scale-105 group-hover:scale-110 transition-transform duration-500">
+                    <img 
+                      src="/logo.jpg" 
+                      alt="CAC Mine Shall Be Possible Logo" 
+                      className="w-full h-full object-cover rounded-full"
+                    />
                   </div>
                   
-                  <p className="mt-5 font-display text-base tracking-widest text-white uppercase font-black">
+                  <p className="mt-6 font-serif text-lg tracking-widest text-white uppercase font-black">
                     MINE SHALL BE POSSIBLE
                   </p>
-                  <p className="text-[10px] text-amber-300 uppercase tracking-widest font-black mt-1">
-                    Anointed to Conquer
+                  <p className="text-[10px] text-amber-300 uppercase tracking-widest font-mono font-bold mt-1.5">
+                    a.k.a CAC MINE SHALL BE POSSIBLE
                   </p>
                 </div>
 
@@ -404,7 +404,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
                   <div className="absolute -inset-1 bg-gradient-to-r from-[#D4AF37] to-[#123B73] rounded-2xl blur opacity-25" />
                   
                   <img 
-                    src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&q=80&w=600" 
+                    src="/prophet.png" 
                     alt="Prophet Maruph Oladele"
                     className="w-full max-w-[320px] aspect-[4/5] object-cover rounded-2xl relative z-0 shadow-2xl"
                   />
