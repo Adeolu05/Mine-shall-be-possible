@@ -1,0 +1,6 @@
+{
+  "name": "Oil For Soul Winning Platform",
+  "description": "Kingdom Mobilisation Platform for Oil For Soul Winning Evangelical Ministries (a.k.a CAC Mine Shall Be Possible). Raise, equip, and deploy soul winners, train disciples, and submit prayer requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
