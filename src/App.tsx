@@ -942,9 +942,9 @@ export default function App() {
                 <span className="text-[10px] font-mono font-bold text-primary-gold uppercase tracking-wider block">
                   EMAIL CHANNEL
                 </span>
-                <a href="mailto:info@cacmineshallbepossible.org" className="flex items-center gap-3 text-slate-800 text-sm hover:text-blue-royal transition-colors font-sans font-semibold">
+                <a href="mailto:oilforsoulwinning@gmail.com" className="flex items-center gap-3 text-slate-800 text-sm hover:text-blue-royal transition-colors font-sans font-semibold">
                   <Mail className="w-4 h-4 text-blue-royal" />
-                  <span>info@cacmineshallbepossible.org</span>
+                  <span>oilforsoulwinning@gmail.com</span>
                 </a>
               </div>
 
@@ -1128,7 +1128,7 @@ export default function App() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="w-4 h-4 text-primary-gold" />
-                  <span>info@cacmineshallbepossible.org</span>
+                  <span>oilforsoulwinning@gmail.com</span>
                 </li>
               </ul>
             </div>
