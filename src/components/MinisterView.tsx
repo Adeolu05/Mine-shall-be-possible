@@ -50,7 +50,7 @@ export default function MinisterView() {
           </span>
         </div>
         <h2 className="font-display font-black text-3xl sm:text-5xl text-white tracking-tight">
-          Prophet Maruph Oladele
+          Prophet Maruph Oladele Oluwasegun
         </h2>
         <p className="text-slate-400 text-sm sm:text-base max-w-3xl leading-relaxed">
           The under-shepherd anointed to pioneer this global evangelical mobilization. Also affectionately called <strong>Omoobaologo</strong> (The Prince of Glory).
