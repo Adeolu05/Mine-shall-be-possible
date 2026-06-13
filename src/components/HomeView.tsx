@@ -221,7 +221,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
               
               <div className="pt-4 border-t border-white/5 flex items-center space-x-3">
                 <span className="text-amber-300 text-sm font-serif">Matthew 28:19</span>
-                <span className="text-slate-500 font-mono text-[10px] uppercase">— GO THEREFORE & MAKE DISCIPLES</span>
+                <span className="text-slate-500 font-mono text-[10px] uppercase">GO THEREFORE & MAKE DISCIPLES</span>
               </div>
             </div>
 
@@ -239,7 +239,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
 
               <div className="pt-4 border-t border-white/5 flex items-center space-x-3">
                 <span className="text-amber-300 text-sm font-serif">Acts 1:8</span>
-                <span className="text-slate-500 font-mono text-[10px] uppercase">— RECEIVE POWER & BE MY WITNESSES</span>
+                <span className="text-slate-500 font-mono text-[10px] uppercase">RECEIVE POWER & BE MY WITNESSES</span>
               </div>
             </div>
 

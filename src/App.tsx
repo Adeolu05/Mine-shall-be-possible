@@ -382,7 +382,7 @@ export default function App() {
 
           {/* Subheadline (Refined to be extremely warm and personal) */}
           <p className="font-sans text-sm sm:text-lg text-slate-300 max-w-2xl mx-auto leading-relaxed">
-            If you are searching for raw spiritual fire, if you desire to grow as a disciple of Jesus Christ, or if you simply need a place to stand in prayer—we welcome you. You are invited to join the frontlines.
+            If you are searching for raw spiritual fire, if you desire to grow as a disciple of Jesus Christ, or if you simply need a place to stand in prayer, we welcome you. You are invited to join the frontlines.
           </p>
 
           {/* Core Scripture Badge (Directly below copy as the anchor) */}
@@ -390,7 +390,7 @@ export default function App() {
             <p className="font-serif italic text-base sm:text-lg text-primary-gold leading-tight">
               "Go therefore and make disciples of all nations..."
             </p>
-            <span className="font-mono text-[9px] text-slate-500 uppercase tracking-widest">— Matthew 28:19</span>
+            <span className="font-mono text-[9px] text-slate-500 uppercase tracking-widest">Matthew 28:19</span>
           </div>
 
           {/* Spaced CTA Buttons */}
@@ -465,7 +465,7 @@ export default function App() {
                 "This ministry did not begin as an administrative decision or a corporate project. It was birthed in solitary distress."
               </p>
               <p>
-                Oil For Soul Winning Evangelical Ministries (a.k.a <strong>CAC Mine Shall Be Possible</strong>) arose out of a deep divine visitation. Witnessing a dry spiritual season across communities, Prophet Maruph Oladele retired into absolute seclusion inside Christ Apostolic Church (CAC)—laying hold of the altar in prolonged fasting and night prayer battles.
+                Oil For Soul Winning Evangelical Ministries (a.k.a <strong>CAC Mine Shall Be Possible</strong>) arose out of a deep divine visitation. Witnessing a dry spiritual season across communities, Prophet Maruph Oladele retired into absolute seclusion inside Christ Apostolic Church (CAC), laying hold of the altar in prolonged fasting and night prayer battles.
               </p>
               <p>
                 In this quiet place of consecration, the Holy Spirit delivered a fire-brand verdict: <em>"Go, pour the anointing oil of soul-winning. Gather the intercessors, storm the rural lands, and establish the truth that with Me, your expectations shall be made possible."</em> What started as a prayer cry on mountain tops has erupted into a vibrant global mobilization army based in Obada Oko, Ogun State.
@@ -1141,7 +1141,7 @@ export default function App() {
               <p className="font-serif italic text-xs text-primary-gold">
                 "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit..."
               </p>
-              <span className="block font-mono text-[9px] text-slate-500 uppercase tracking-widest">— MATTHEW 28:19-20</span>
+              <span className="block font-mono text-[9px] text-slate-500 uppercase tracking-widest">MATTHEW 28:19-20</span>
             </div>
 
           </div>
