@@ -190,7 +190,7 @@ export default function Footer({ setTab }: FooterProps) {
                 <MapPin className="w-4 h-4 text-[#D4AF37] shrink-0 mt-0.5" />
                 <span>
                   Oil For Soul Winning Evangelical Ministries HQ,<br />
-                  Obada Oko (Near Abeokuta), Ogun State, Nigeria.
+                  Ibara Orile/Onisasa Ewekoro, Abeokuta 110101, Ogun State, Nigeria.
                 </span>
               </div>
               <div className="flex items-start space-x-3">

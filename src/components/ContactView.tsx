@@ -66,7 +66,7 @@ export default function ContactView() {
                 <MapPin className="w-5 h-5 text-[#D4AF37] shrink-0 mt-0.5" />
                 <p className="text-slate-300 leading-relaxed">
                   Oil For Soul Winning Evangelical Ministries HQ,<br />
-                  Obada Oko (Abeokuta Expressway), Ogun State, Nigeria.
+                  Ibara Orile/Onisasa Ewekoro, Abeokuta 110101, Ogun State, Nigeria.
                 </p>
               </div>
             </div>
@@ -104,33 +104,34 @@ export default function ContactView() {
 
           {/* Custom vector architectural coordinates map block */}
           <div className="glass-panel p-6 rounded-3xl space-y-4 border border-[#D4AF37]/20 text-center">
-            <span className="text-[10px] font-mono text-slate-500 uppercase block text-left">Obada Oko Coordinates Vector Map</span>
+            <div className="flex justify-between items-center text-[10px] font-mono text-slate-500">
+              <span className="uppercase block text-left font-sans font-bold">Obada Oko Sanctuary Map</span>
+              <span className="text-amber-200">7.1750° N, 3.3464° E</span>
+            </div>
             
-            <div className="w-full aspect-[4/3] rounded-2xl bg-black/60 border border-white/5 relative p-4 flex flex-col justify-between overflow-hidden">
-              <div className="absolute inset-0 opacity-10 bg-[linear-gradient(to_right,rgba(255,255,255,0.1)_1px,transparent_1px),linear-gradient(to_bottom,rgba(255,255,255,0.1)_1px,transparent_1px)] bg-[size:16px_16px]" />
-              
-              {/* Artistically simulated geometric vector map */}
-              <div className="relative flex-1 flex items-center justify-center">
-                {/* Geolocation anchor */}
-                <span className="absolute w-24 h-24 rounded-full bg-blue-500/10 border-2 border-dotted border-[#D4AF37]/50 animate-ping" style={{ animationDuration: '4s' }} />
-                
-                <div className="relative text-center">
-                  <div className="w-10 h-10 rounded-full bg-gradient-to-r from-[#D4AF37] to-[#123B73] text-white flex items-center justify-center mx-auto shadow-lg relative z-10 animate-bounce">
-                    <Compass className="w-5 h-5" />
-                  </div>
-                  <p className="mt-2 font-display text-xs text-white font-black tracking-widest uppercase">CAC MSBP HQ</p>
-                  <p className="text-[9px] text-amber-200">7.1519° N, 3.2497° E</p>
-                </div>
-              </div>
-
-              <div className="border-t border-white/5 pt-3 flex items-center justify-between text-[10px] font-mono text-slate-400">
-                <span className="text-left font-sans">Near Abeokuta-Lagos Expressway</span>
-                <span className="font-bold text-[#D4AF37]">SECURE SANCTUARY</span>
-              </div>
+            <div className="w-full aspect-[4/3] rounded-2xl bg-black/60 border border-white/5 relative overflow-hidden">
+              <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.5753931869335!2d3.346448!3d7.1749807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103a495dc3aa366f%3A0x164efc112668c62c!2sOil%20For%20Soul%20Winning%20Evangelical%20Ministries!5e0!3m2!1sen!2sng!4v1781472798665!5m2!1sen!2sng"
+                className="w-full h-full border-0 opacity-85 hover:opacity-100 transition-opacity duration-300 grayscale contrast-[1.2] invert-[0.9]"
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Oil For Soul Winning Evangelical Ministries Location Map"
+              />
             </div>
 
+            <a 
+              href="https://share.google/xrLiuj4C2f8Mv5bCj"
+              target="_blank" 
+              rel="noreferrer" 
+              className="w-full py-2.5 bg-white/5 hover:bg-[#D4AF37]/20 border border-white/10 hover:border-[#D4AF37]/45 rounded-xl text-[10px] font-display font-black text-[#D4AF37] uppercase tracking-widest transition-all flex items-center justify-center space-x-2"
+            >
+              <Compass className="w-3.5 h-3.5" />
+              <span>Launch Google Maps Navigation</span>
+            </a>
+
             <p className="text-[10px] text-slate-400 italic leading-relaxed text-left">
-              *Transportation tips: When coming from Lagos, stop at Obada Oko junction near Abeokuta, take a short cycle ride towards the CAC "Mine Shall Be Possible" signposts!
+              *Transportation tips: When coming from Lagos, stop at Obada Oko junction near Abeokuta, take a short cycle ride towards the CAC "Mine Shall Be Possible" signposts at Ibara Orile/Onisasa Ewekoro!
             </p>
           </div>
 
