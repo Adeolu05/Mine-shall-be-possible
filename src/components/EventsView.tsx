@@ -105,7 +105,7 @@ export default function EventsView() {
             Night of Divine Abundance Crusade
           </h3>
           <p className="text-xs text-slate-400">
-            Open Ground, Obada Oko, Ogun State, Nigeria. Featuring Prophet Maruph Oladele.
+            Open Ground, Obada Oko, Ogun State, Nigeria. Featuring Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO).
           </p>
         </div>
 

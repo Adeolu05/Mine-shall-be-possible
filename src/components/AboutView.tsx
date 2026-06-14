@@ -51,7 +51,7 @@ export default function AboutView() {
               Anointed Origins (Our History)
             </h3>
             <p className="text-slate-300 text-sm leading-relaxed">
-              Oil For Soul Winning Evangelical Ministries arose out of a deep divine visitation. Witnessing a spiritual drought and decay across several communities in Nigeria, Prophet Maruph Oladele retired into absolute seclusion and prolonged dry fasting, laying hold of the altar in intense prayers.
+              Oil For Soul Winning Evangelical Ministries arose out of a deep divine visitation. Witnessing a spiritual drought and decay across several communities in Nigeria, Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) retired into absolute seclusion and prolonged dry fasting, laying hold of the altar in intense prayers.
             </p>
             <p className="text-slate-300 text-sm leading-relaxed">
               In this atmosphere of consecration, the Holy Spirit delivered a clear mandate: <em className="text-[#D4AF37] font-semibold">"Go, pour the anointing oil of soul-winning. Gather the praying saints, mount crusades, and establish the truth that with me, all things shall be possible."</em> 

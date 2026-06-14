@@ -43,7 +43,7 @@ export default function OutreachHubView() {
     },
     {
       id: 'g6',
-      title: 'Prophet Maruph counseling village elders',
+      title: 'Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) counseling village elders',
       category: 'rehabilitation',
       image: 'https://images.unsplash.com/photo-1544427920-c49ccfb85579?auto=format&fit=crop&q=80&w=600',
       caption: 'Bridging tribal bounds with divine wisdom counseling cycles.'

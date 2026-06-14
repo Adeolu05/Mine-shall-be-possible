@@ -100,7 +100,7 @@ export default function App() {
       title: "12 Years of Addiction Shattered",
       name: "Brother Abraham Adeosun",
       location: "Abeokuta, Ogun State",
-      text: "For 12 years, I was locked inside hard drug addiction and violent gangs. During the Obada Oko crusade, a soul winner handed me a gospel tract. As Prophet Maruph was praying, the power of the Holy Spirit hit me like light. I collapsed, and when I woke up, the addiction was completely gone! Today, I am actively witnessing on the streets.",
+      text: "For 12 years, I was locked inside hard drug addiction and violent gangs. During the Obada Oko crusade, a soul winner handed me a gospel tract. As Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) was praying, the power of the Holy Spirit hit me like light. I collapsed, and when I woke up, the addiction was completely gone! Today, I am actively witnessing on the streets.",
       verified: true
     },
     {
@@ -465,7 +465,7 @@ export default function App() {
                 "This ministry did not begin as an administrative decision or a corporate project. It was birthed in solitary distress."
               </p>
               <p>
-                Oil For Soul Winning Evangelical Ministries (a.k.a <strong>CAC Mine Shall Be Possible</strong>) arose out of a deep divine visitation. Witnessing a dry spiritual season across communities, Prophet Maruph Oladele retired into absolute seclusion inside Christ Apostolic Church (CAC), laying hold of the altar in prolonged fasting and night prayer battles.
+                Oil For Soul Winning Evangelical Ministries (a.k.a <strong>CAC Mine Shall Be Possible</strong>) arose out of a deep divine visitation. Witnessing a dry spiritual season across communities, Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) retired into absolute seclusion inside Christ Apostolic Church (CAC), laying hold of the altar in prolonged fasting and night prayer battles.
               </p>
               <p>
                 In this quiet place of consecration, the Holy Spirit delivered a fire-brand verdict: <em>"Go, pour the anointing oil of soul-winning. Gather the intercessors, storm the rural lands, and establish the truth that with Me, your expectations shall be made possible."</em> What started as a prayer cry on mountain tops has erupted into a vibrant global mobilization army based in Obada Oko, Ogun State.
@@ -584,12 +584,12 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-t from-navy-deep via-transparent to-transparent z-10" />
                 <img 
                   src="/pastor.jpg" 
-                  alt="Prophet Maruph Oladele (Omoobaologo)" 
+                  alt="Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)" 
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute bottom-6 left-6 right-6 z-20 bg-navy-deep/90 border border-white/10 backdrop-blur-md p-4 rounded-2xl text-center shadow-lg">
                   <p className="font-display font-black text-primary-gold uppercase tracking-wider text-xs">
-                    Prophet Maruph Oladele
+                    Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)
                   </p>
                   <p className="text-[9px] text-slate-400 font-mono uppercase tracking-widest mt-1">
                     General Overseer (Omoobaologo)
@@ -625,7 +625,7 @@ export default function App() {
               <div className="pt-4 flex items-center space-x-4">
                 <div className="h-0.5 w-12 bg-primary-gold" />
                 <div className="text-left font-serif">
-                  <span className="font-bold text-white block">Prophet M. Oladele</span>
+                  <span className="font-bold text-white block">Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)</span>
                   <span className="text-[10px] text-slate-400 block font-mono">Obada Oko Sanctuary, Ogun State</span>
                 </div>
               </div>
@@ -749,13 +749,13 @@ export default function App() {
               <div className="absolute inset-0 bg-navy-deep/60 z-10 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
                 <div className="text-white text-left">
                   <span className="text-[10px] font-mono tracking-wider block text-primary-gold uppercase">ANNOINTED COUNSEL</span>
-                  <strong className="text-sm uppercase font-display block mt-1">Prophet Maruph Oladele in Sanctuary</strong>
-                  <p className="text-[10.5px] text-slate-300 mt-1 leading-normal">Prophet Maruph ministering under the tangible unction.</p>
+                  <strong className="text-sm uppercase font-display block mt-1">Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) in Sanctuary</strong>
+                  <p className="text-[10.5px] text-slate-300 mt-1 leading-normal">Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) ministering under the tangible unction.</p>
                 </div>
               </div>
               <img 
                 src="/pastor.jpg" 
-                alt="Prophet Maruph Oladele" 
+                alt="Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)" 
                 className="w-full h-full object-cover"
               />
             </div>
@@ -1084,7 +1084,7 @@ export default function App() {
                 </div>
               </div>
               <p className="text-xs text-slate-400">
-                A growing evangelical ministry in Nigeria raising a soul-winning army of Kingdom ambassadors and transforming lives for eternity under the mandate of Prophet Maruph Oladele.
+                A growing evangelical ministry in Nigeria raising a soul-winning army of Kingdom ambassadors and transforming lives for eternity under the mandate of Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO).
               </p>
             </div>
 

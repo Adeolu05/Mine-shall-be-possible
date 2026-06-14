@@ -145,7 +145,7 @@ export default function TestimoniesView() {
                   value={content}
                   onChange={(e) => setContent(e.target.value)}
                   rows={4}
-                  placeholder="Tell your story. Explain your situation before the prayer, what Prophet Maruph prayed, and what miracle manifest afterwards..."
+                  placeholder="Tell your story. Explain your situation before the prayer, what Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) prayed, and what miracle manifest afterwards..."
                   className="w-full bg-[#050505] border border-white/10 rounded-lg p-3 text-xs text-white placeholder-slate-600 focus:outline-none"
                   required
                 />

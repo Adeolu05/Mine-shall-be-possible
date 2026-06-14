@@ -159,7 +159,7 @@ export default function Footer({ setTab }: FooterProps) {
               </li>
               <li>
                 <button onClick={() => { setTab('minister'); window.scrollTo(0,0); }} className="hover:text-[#D4AF37] transition-colors">
-                  Prophet Maruph Oladele (Biog)
+                  Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) (Biog)
                 </button>
               </li>
               <li>

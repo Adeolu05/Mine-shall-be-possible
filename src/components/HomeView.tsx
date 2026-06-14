@@ -289,7 +289,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
                 The Soul Winner's Covenant Challenge
               </h3>
               <p className="text-slate-300 text-sm leading-relaxed max-w-xl font-sans">
-                Under the visionary direction of Prophet Maruph Oladele, we have committed to winning <strong className="text-white text-semibold font-sans">One Soul Every Month</strong>. By registering on our interactive Evangelism Hub, you get assigned local mission territories, receive downloadable tracts, and log outcomes. Let's make the Great Commission personal.
+                Under the visionary direction of Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO), we have committed to winning <strong className="text-white text-semibold font-sans">One Soul Every Month</strong>. By registering on our interactive Evangelism Hub, you get assigned local mission territories, receive downloadable tracts, and log outcomes. Let's make the Great Commission personal.
               </p>
             </div>
 
@@ -405,13 +405,13 @@ export default function HomeView({ setTab }: HomeViewProps) {
                   
                   <img 
                     src="/prophet.png" 
-                    alt="Prophet Maruph Oladele"
+                    alt="Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)"
                     className="w-full max-w-[320px] aspect-[4/5] object-cover rounded-2xl relative z-0 shadow-2xl"
                   />
                   
                   {/* Floating Caption badge */}
                   <div className="absolute bottom-4 left-4 right-4 z-20 bg-[#050505]/85 border border-white/10 backdrop-blur-xl p-4 rounded-xl text-center">
-                    <p className="font-display font-black text-[#D4AF37] uppercase tracking-wide text-xs">Prophet Maruph Oladele</p>
+                    <p className="font-display font-black text-[#D4AF37] uppercase tracking-wide text-xs">Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)</p>
                     <p className="text-[10px] text-slate-400 font-mono uppercase tracking-widest mt-1">GENERAL OVERSEER (Omoobaologo)</p>
                   </div>
                 </div>
@@ -449,7 +449,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
                     Read Full Calling Testimony
                   </button>
                   <div className="text-left">
-                    <span className="font-display text-xs text-[#D4AF37] block font-black">PROPHET M. OLADELE</span>
+                    <span className="font-display text-xs text-[#D4AF37] block font-black">PROPHET MARUPH OLUWASEGUN OLADELE. (OMOOBAOLOGO)</span>
                     <span className="text-[10px] text-slate-500 font-mono">Obada Oko, Ogun State, Nigeria</span>
                   </div>
                 </div>
@@ -504,7 +504,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
             </div>
             <div>
               <span className="text-[10px] font-mono text-slate-500 uppercase tracking-wider block">MINISTERING UNCTION</span>
-              <strong className="text-base font-bold text-[#D4AF37] mt-1 block">Prophet Maruph Oladele</strong>
+              <strong className="text-base font-bold text-[#D4AF37] mt-1 block">Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)</strong>
               <span className="text-xs text-slate-400 block mt-0.5">Evangelistic signs and prophetic miracles</span>
             </div>
           </div>
@@ -530,7 +530,7 @@ export default function HomeView({ setTab }: HomeViewProps) {
           
           <div className="glass-panel p-8 rounded-3xl relative flex flex-col justify-between space-y-6 border-white/5 bg-[#081C3D]/25">
             <p className="text-sm text-slate-300 leading-relaxed italic font-serif">
-              "For 12 years, I was locked inside hard drug addiction and violent gangs. During the Obada Oko crusade, a soul winner handed me a gospel flyer. As Prophet Maruph was praying, the power of the Holy Spirit hit me like light. Yesterday I was completely delivered!"
+              "For 12 years, I was locked inside hard drug addiction and violent gangs. During the Obada Oko crusade, a soul winner handed me a gospel flyer. As Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) was praying, the power of the Holy Spirit hit me like light. Yesterday I was completely delivered!"
             </p>
             <div className="flex items-center space-x-4 border-t border-white/5 pt-4">
               <div className="w-10 h-10 rounded-full bg-[#123B73]/40 border border-[#D4AF37]/30 flex items-center justify-center font-display font-bold text-[#D4AF37]">

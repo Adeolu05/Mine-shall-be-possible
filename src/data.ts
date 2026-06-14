@@ -76,7 +76,7 @@ export const UPCOMING_EVENTS: Event[] = [
     date: 'June 18, 2026',
     time: '5:00 PM (GMT+1)',
     location: 'Open Ground, Obada Oko, Ogun State, Nigeria',
-    description: 'Join Prophet Maruph Oladele for an intense atmosphere of raw Holy Spirit power, salvation of souls, instant miraculous healings, profound deliverance, and prophetic restoration. "Mine Shall Be Possible" is the divine verdict!',
+    description: 'Join Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) for an intense atmosphere of raw Holy Spirit power, salvation of souls, instant miraculous healings, profound deliverance, and prophetic restoration. "Mine Shall Be Possible" is the divine verdict!',
     image: 'https://images.unsplash.com/photo-1515162305285-0293e4767cc2?auto=format&fit=crop&q=80&w=1200',
     countdownDate: '2026-06-18T17:00:00+01:00',
     category: 'revival',
@@ -111,7 +111,7 @@ export const INITIAL_TESTIMONIES: Testimony[] = [
     name: 'Brother Abraham Adeosun',
     location: 'Abeokuta, Ogun State',
     category: 'salvation',
-    content: 'For 12 years, I was locked inside hard drug addiction and violent gangs. During the Obada Oko crusade, a soul winner handstripped me a gospel flyer. I attended in heavy skepticism, but as Prophet Maruph Oladele was praying, the power of the Holy Spirit hit me like light. I collapsed code-cold, and woke up completely delivered! Today, I have undergone full discipleship and I am also leading street outreaches!',
+    content: 'For 12 years, I was locked inside hard drug addiction and violent gangs. During the Obada Oko crusade, a soul winner handstripped me a gospel flyer. I attended in heavy skepticism, but as Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) was praying, the power of the Holy Spirit hit me like light. I collapsed code-cold, and woke up completely delivered! Today, I have undergone full discipleship and I am also leading street outreaches!',
     date: 'May 14, 2026',
     approved: true
   },
@@ -167,7 +167,7 @@ export const INITIAL_PRAYER_WALL: PrayerRequest[] = [
 
 export const DAILY_PRAYER_POINTS = [
   { Day: 'Monday', Theme: 'Soul Winning Fire & Harvest', Anchor: 'John 15:16', Point: 'Father, release raw, fresh burning passion over all our deployed soul winners, and grant a supernatural harvest of souls during our street crusades.' },
-  { Day: 'Tuesday', Theme: 'Raw Anointing & Prophet Demands', Anchor: 'Isaiah 10:27', Point: 'We pray for continuous divine multiplication of fire, fresh revelation, and ultimate physical protection over our Minister-in-Charge, Prophet Maruph Oladele.' },
+  { Day: 'Tuesday', Theme: 'Raw Anointing & Prophet Demands', Anchor: 'Isaiah 10:27', Point: 'We pray for continuous divine multiplication of fire, fresh revelation, and ultimate physical protection over our Minister-in-Charge, Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO).' },
   { Day: 'Wednesday', Theme: 'Deliverance & Yoke Breaking', Anchor: 'Galatians 5:1', Point: 'Father, let thy raw apostolic fire consume every ancestral covenant and curse that holds any family in Obada Oko in spiritual captivity.' },
   { Day: 'Thursday', Theme: 'Maturity & Disciple Preservation', Anchor: 'Ephesians 4:13', Point: 'We intercede for our newly saved coverts. Let they be deep-rooted in discipleship, grow in scripture study, and become rigid Kingdom ambassadors.' },
   { Day: 'Friday', Theme: 'Global Open Doors & Financial Supply', Anchor: 'Philippians 4:19', Point: 'Father, trigger abnormal financial supply to construct rural worship shelters, purchase sound rigs, and feed welfare beneficiaries.' },
@@ -193,7 +193,7 @@ export const OUTREACH_REPORTS: OutreachReport[] = [
     date: 'May 24, 2026',
     soulsWon: 74,
     tractsDistributed: 150,
-    narrative: 'We received special clearance to minister to inmates at the Ibara Correctional Center. Prophet Maruph Oladele preached deeply on the redemptive freedom found in Christ. The prison yard was heavy with tears of raw repentance. 74 inmates surrendered their hearts completely to Jesus.',
+    narrative: 'We received special clearance to minister to inmates at the Ibara Correctional Center. Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) preached deeply on the redemptive freedom found in Christ. The prison yard was heavy with tears of raw repentance. 74 inmates surrendered their hearts completely to Jesus.',
     image: 'https://images.unsplash.com/photo-1455734729978-db1ae4f687fc?auto=format&fit=crop&q=80&w=600',
   },
 ];
@@ -232,17 +232,17 @@ export const SERMONS: Sermon[] = [
   {
     id: 'srm-001',
     title: 'Spiritual Oil for Divine Acceleration',
-    speaker: 'Prophet Maruph Oladele',
+    speaker: 'Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)',
     date: 'Sunday, June 07, 2026',
     duration: '48 Min',
     audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3', // Raw sample audio
     category: 'Anointing & Grace',
-    summary: 'When divine oil rubs your feet, speed becomes natural! Prophet Maruph teaches on breaking physical delays and taking territory under the anointing of CAC Mine Shall Be Possible.'
+    summary: 'When divine oil rubs your feet, speed becomes natural! Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) teaches on breaking physical delays and taking territory under the anointing of CAC Mine Shall Be Possible.'
   },
   {
     id: 'srm-002',
     title: 'The Cost of the Great Commission',
-    speaker: 'Prophet Maruph Oladele',
+    speaker: 'Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)',
     date: 'Sunday, May 31, 2026',
     duration: '54 Min',
     audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3',
@@ -252,7 +252,7 @@ export const SERMONS: Sermon[] = [
   {
     id: 'srm-003',
     title: 'Winning Your Village & City For Christ',
-    speaker: 'Prophet Maruph Oladele',
+    speaker: 'Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)',
     date: 'Sunday, May 24, 2026',
     duration: '1hr 02m',
     audioUrl: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3',

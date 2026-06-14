@@ -50,7 +50,7 @@ export default function MinisterView() {
           </span>
         </div>
         <h2 className="font-display font-black text-3xl sm:text-5xl text-white tracking-tight">
-          Prophet Maruph Oladele Oluwasegun
+          Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)
         </h2>
         <p className="text-slate-400 text-sm sm:text-base max-w-3xl leading-relaxed">
           The under-shepherd anointed to pioneer this global evangelical mobilization. Also affectionately called <strong>Omoobaologo</strong> (The Prince of Glory).
@@ -69,7 +69,7 @@ export default function MinisterView() {
             
             <img 
               src="/prophet.png" 
-              alt="Prophet Maruph Oladele praying"
+              alt="Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) praying"
               className="w-full h-auto aspect-square object-cover rounded-2xl relative z-0"
             />
 
@@ -111,13 +111,13 @@ export default function MinisterView() {
           <div className="space-y-4 text-slate-300 text-sm leading-relaxed">
             <h3 className="font-display font-bold text-lg text-white">The Man, The Calling, and The Mandate</h3>
             <p>
-              Prophet Maruph Oladele represents a rugged prophetic voice ordained by God to trigger global soul harvests, unlock structural financial abundance, and break physical delays blocking the destinies of genuine believers.
+              Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO) represents a rugged prophetic voice ordained by God to trigger global soul harvests, unlock structural financial abundance, and break physical delays blocking the destinies of genuine believers.
             </p>
             <p>
               He was born with royalty in his veins - hence the name <strong>Omoobaologo</strong> - but walked away from secular positions to answer the glorious calling of our Lord. He underwent rigorous theological purification and prayer consecration inside Christ Apostolic Church (CAC). After months of solitary spiritual battles on mountain altars, he was called to Obada Oko in Ogun State to build the platform: CAC Mine Shall Be Possible.
             </p>
             <p>
-              Prophet Oladele’s primary heartbeat is not centered on commercializing the anointing oil. His focus is on raising a <strong className="text-white">self-sufficient, militant army of soul winners</strong> through direct street actions. His teachings focus on raw faith, absolute adherence to Matthew 28:19, physical holiness, and divine acceleration.
+              Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)’s primary heartbeat is not centered on commercializing the anointing oil. His focus is on raising a <strong className="text-white">self-sufficient, militant army of soul winners</strong> through direct street actions. His teachings focus on raw faith, absolute adherence to Matthew 28:19, physical holiness, and divine acceleration.
             </p>
           </div>
 
@@ -156,7 +156,7 @@ export default function MinisterView() {
               Direct Prophetic Counsel
             </h3>
             <p className="text-xs text-slate-400 leading-relaxed">
-              Do you have a personal challenge or require spiritual advice from Prophet Maruph Oladele? Use this private interface to submit your request directly to the Prophet. Enjoy an instant prophetic verdict block drawn from real-test scriptural covenants.
+              Do you have a personal challenge or require spiritual advice from Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)? Use this private interface to submit your request directly to the Prophet. Enjoy an instant prophetic verdict block drawn from real-test scriptural covenants.
             </p>
           </div>
 
@@ -196,7 +196,7 @@ export default function MinisterView() {
                     value={message} 
                     onChange={(e) => setMessage(e.target.value)}
                     rows={3}
-                    placeholder="Describe your situation and ask for Prophet Maruph Oladele's spiritual attention..." 
+                    placeholder="Describe your situation and ask for Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)'s spiritual attention..." 
                     className="w-full bg-[#050505] border border-white/10 rounded-lg p-3 text-xs text-white"
                     required
                   />
@@ -226,7 +226,7 @@ export default function MinisterView() {
                   <Check className="w-6 h-6" />
                 </div>
                 <h4 className="font-display font-bold text-white text-base">Hallelujah! Counsel transmitted.</h4>
-                <p className="text-xs text-slate-400">Your message has been safely recorded on Prophet Maruph Oladele's prayer altar register.</p>
+                <p className="text-xs text-slate-400">Your message has been safely recorded on Prophet Maruph Oluwasegun Oladele. (OMOOBAOLOGO)'s prayer altar register.</p>
                 
                 <div className="p-4 rounded-xl bg-amber-500/10 border border-[#D4AF37]/30 text-left space-y-2">
                   <p className="text-[10px] font-mono text-[#D4AF37] uppercase tracking-wider">Prophetic Verdict Decree:</p>
